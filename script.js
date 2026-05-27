@@ -7,9 +7,9 @@ const errorDiv = document.querySelector("#error");
 const output = document.querySelector("#output");
 
 const imageUrls = [
-  "https://picsum.photos/300?random=1",
-  "https://picsum.photos/300?random=2",
-  "https://picsum.photos/300?random=3",
+  "https://picsum.photos/id/237/200/300",
+  "https://picsum.photos/id/238/200/300",
+  "https://picsum.photos/id/239/200/300"
 ];
 
 const downloadImage = (url) => {

@@ -1,4 +1,4 @@
-const button = document.querySelector("#btn");
+const button = document.querySelector("#download-images-button");
 
 const loading = document.querySelector("#loading");
 
